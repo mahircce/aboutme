@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html lang="en">
 <head>
-    <title>About Me</title>
+   
 </head>
 <body>
     <header><h2 style="text-align:center;">About Me</h2></header>
